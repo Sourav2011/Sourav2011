@@ -1,6 +1,7 @@
-- 👋 Hi, I’m Sourav Poddar
-- 👀 I’m interested in Data Analytics 
-- 🌱 I’m currently learning Python and R
+Student at TU Dortmund | Aspiring Data Analyst  
+Power BI • Python • SQL • Statistics  
+Building dashboards, analyzing datasets, and learning data modeling  
+Passionate about practical problem‑solving and continuous learning
 - 📫 Here is my Linkedin Profile https://www.linkedin.com/in/sourav-poddar-a7394410b/
 
 <!---
